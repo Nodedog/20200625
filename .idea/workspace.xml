@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8ca4f63-9a3c-460f-95c3-dc64503a2757" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ekMMSR8wefwnRW4iq2I2wJqENN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../20200624" />
+    <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
+  </component>
+  <component name="RunManager" selected="Application.HttpServer1Copy">
+    <configuration name="HttpServer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HttpServer1" />
+      <module name="20200625" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpServer1Copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HttpServer1Copy" />
+      <module name="20200625" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HttpServer1Copy" />
+        <item itemvalue="Application.HttpServer1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8ca4f63-9a3c-460f-95c3-dc64503a2757" name="Default Changelist" comment="" />
+      <created>1594861088244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594861088244</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1594947393070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="616" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594947393070" />
+    <state x="359" y="164" key="FileChooserDialogImpl" timestamp="1594951546455">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="359" y="164" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594951546455" />
+    <state x="634" y="293" width="272" height="291" key="Github.ShareDialog" timestamp="1594955485998">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="634" y="293" width="272" height="291" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1594955485998" />
+    <state width="982" height="179" key="GridCell.Tab.0.bottom" timestamp="1594949660581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="982" height="179" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594949660581" />
+    <state width="982" height="179" key="GridCell.Tab.0.center" timestamp="1594949660581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="982" height="179" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594949660581" />
+    <state width="982" height="179" key="GridCell.Tab.0.left" timestamp="1594949660581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="982" height="179" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594949660581" />
+    <state width="982" height="179" key="GridCell.Tab.0.right" timestamp="1594949660581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="982" height="179" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594949660581" />
+    <state x="496" y="38" key="SettingsEditor" timestamp="1594947979915">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="38" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594947979915" />
+    <state x="51" y="182" key="com.intellij.ide.util.TipDialog" timestamp="1594955787038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="51" y="182" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1594955787038" />
+    <state x="0" y="1" width="741" height="714" key="dock-window-1" timestamp="1594949877331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="1" width="741" height="714" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1594949877331" />
+    <state x="317" y="0" key="new project wizard" timestamp="1594899963667">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="317" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1594899963667" />
+  </component>
+</project>
